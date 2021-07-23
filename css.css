@@ -12,6 +12,9 @@ body {
 footer span {
   margin-top: 160px;
 }
+footer {
+  font-family: "Poppins", sans-serif;
+}
 
 a {
   text-decoration: none;
